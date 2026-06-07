@@ -27,6 +27,9 @@ GIS       QGIS • Python
 * GIS-verktyg och analyser
 * Automatiserade system och scripts
 
+## 🎵 Musik
+[![Spotify](https://novatorem.vercel.app/api/spotify?open=true)](https://open.spotify.com)
+
 ## Just nu
 
 * 🔧 Optimerar och automatiserar min homelab-miljö
