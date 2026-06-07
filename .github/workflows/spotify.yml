@@ -9,8 +9,8 @@ jobs:
   update:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-      - uses: novatorem/novatorem@main
+      - uses: actions/checkout@v4
+      - uses: JeffreyCA/spotify-recently-played-readme@v1
         env:
           SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
           SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
