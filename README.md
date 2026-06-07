@@ -28,7 +28,7 @@ GIS       QGIS • Python
 * Automatiserade system och scripts
 
 ## 🎵 Musik
-[![Spotify](https://novatorem.vercel.app/api/spotify?open=true)](https://open.spotify.com)
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=KarlssonH3)
 
 ## Just nu
 
